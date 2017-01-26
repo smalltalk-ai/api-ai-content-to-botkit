@@ -1,6 +1,6 @@
 {
   "name": "api-ai-content-to-botkit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Utility lib for transforming api.ai content into Botkit format",
   "main": "lib/index.js",
   "scripts": {
